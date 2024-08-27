@@ -20,3 +20,5 @@ The aim is to uncover insights into racist and sexist comments through visualiza
 • **Pandas :** Used for data manipulation and analysis.
 • **Matplotlib :** Employed for crating static , animated and interactive visualizations.
 • **Stop Words Removal:** Eliminating common words (e.g., "and", "the") that do not contribute significant meaning.
+
+**Conclusion:** The Social Media Sentiment Analysis project using NLP demonstrates how text data from social media can be effectively analyzed to gauge public sentiment. The analysis shows the power of NLP techniques in classifying opinions as positive, negative, or neutral, providing valuable insights into public perceptions and trends.
